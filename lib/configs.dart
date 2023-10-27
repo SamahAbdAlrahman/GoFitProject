@@ -1,0 +1,15 @@
+String ip ="192.168.0.111";
+String port ="5000";
+String addyoga ="http://$ip:$port/addyoga";
+String addAdvanced = "http://$ip:$port/addAdvanced";
+String addClass="http://$ip:$port/addClass";
+String beginnerexercises="http://$ip:$port/beginnerexercises";
+String addIntermedate ="http://$ip:$port/addIntermedate";
+String intermediateexercises ="$ip:$port/intermediateexercises";
+String addSub="http://$ip:$port/addSub";
+String getClasses="http://$ip:$port/getClasses";
+String getallSub="http://$ip:$port/getallSub";
+String allSubscribtion="http://$ip:$port/allSubscribtion";
+String Advancedexercises='http://$ip:$port/Advancedexercises';
+String addBeginner='http://$ip:$port/addBeginner';
+String registeremployee="http://$ip:$port/employee/register";
